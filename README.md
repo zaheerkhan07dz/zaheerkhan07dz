@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @zaheerkhan07dz
-- 👀 I’m interested in Full Stak Development
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
+
 
 
 <!---
